@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/flutter_apps/building_damage_finder_app/android/app/.cxx/Debug/3u2r5n1l/armeabi-v7a",
+  "command": "C:\\Users\\Home\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/Home/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Home/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DOpenCV_ffi_EXPORTS -I../../../../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\OpenCV_ffi.dir\\D_\\flutter_apps\\building_damage_finder_app\\lib\\opencv-cpp\\main.cpp.o -c D:\\flutter_apps\\building_damage_finder_app\\lib\\opencv-cpp\\main.cpp",
+  "file": "D:\\flutter_apps\\building_damage_finder_app\\lib\\opencv-cpp\\main.cpp"
+}
+]

@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "E:\\flutter_apps\\building_damage_finder_app\\android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Home\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\flutter_apps\\building_damage_finder_app\\android\\app\\.cxx\\Debug\\4k3b554v\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Home\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\flutter_apps\\building_damage_finder_app\\android\\app\\.cxx\\Debug\\4k3b554v\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "OpenCV_ffi::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "OpenCV_ffi",
+      "output": "E:\\flutter_apps\\building_damage_finder_app\\build\\app\\intermediates\\cxx\\Debug\\4k3b554v\\obj\\x86\\libOpenCV_ffi.so",
+      "runtimeFiles": [
+        "E:\\flutter_apps\\building_damage_finder_app\\android\\src\\main\\jniLibs\\x86\\libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\Home\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Home\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

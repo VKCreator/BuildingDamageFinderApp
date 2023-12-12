@@ -1,0 +1,18 @@
+# ninja log v5
+1	10230	719482683	CMakeFiles/OpenCV_ffi.dir/D_/flutter_apps/building_damage_finder_app/lib/opencv-cpp/main.cpp.o	b1e728b6e7d7e93d
+10233	10624	719482683	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+5	285	719524210	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+5	288	719612365	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+4	153	719612632	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+5	147	719613398	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+6	8920	719696183	CMakeFiles/OpenCV_ffi.dir/D_/flutter_apps/building_damage_finder_app/lib/opencv-cpp/main.cpp.o	b1e728b6e7d7e93d
+8920	9039	719696183	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+4	6549	720028183	CMakeFiles/OpenCV_ffi.dir/D_/flutter_apps/building_damage_finder_app/lib/opencv-cpp/main.cpp.o	b1e728b6e7d7e93d
+6549	6722	720028183	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+5	10235	720364425	CMakeFiles/OpenCV_ffi.dir/D_/flutter_apps/building_damage_finder_app/lib/opencv-cpp/main.cpp.o	b1e728b6e7d7e93d
+10235	10563	720364425	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+6	488	720367143	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+4	368	720374719	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+5	159	720374869	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954
+3	5414	721235245	CMakeFiles/OpenCV_ffi.dir/D_/flutter_apps/building_damage_finder_app/lib/opencv-cpp/main.cpp.o	b1e728b6e7d7e93d
+5415	5570	721235246	D:/flutter_apps/building_damage_finder_app/build/app/intermediates/cxx/RelWithDebInfo/4b7n6k3b/obj/x86/libOpenCV_ffi.so	92c339b395931954

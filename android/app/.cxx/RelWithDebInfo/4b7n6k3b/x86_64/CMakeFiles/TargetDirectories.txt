@@ -1,0 +1,3 @@
+D:/flutter_apps/building_damage_finder_app/android/app/.cxx/RelWithDebInfo/4b7n6k3b/x86_64/CMakeFiles/OpenCV_ffi.dir
+D:/flutter_apps/building_damage_finder_app/android/app/.cxx/RelWithDebInfo/4b7n6k3b/x86_64/CMakeFiles/edit_cache.dir
+D:/flutter_apps/building_damage_finder_app/android/app/.cxx/RelWithDebInfo/4b7n6k3b/x86_64/CMakeFiles/rebuild_cache.dir

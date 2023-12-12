@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorAccent">@color/blue_5</color>
+
+    <color name="black_1">#000000</color>
+    <color name="white_5">#ffffff</color>
+    <color name="red_1">#ff0000</color>
+    <color name="blue_5">#0078ff</color>
+
+
+<!-- <color name="ucrop_color_toolbar">#fff</color>
+<color name="ucrop_color_statusbar">#f5f5f5</color>
+<color name="ucrop_color_toolbar_widget">#000000</color>
+
+<color name="ucrop_color_widget_active">#f5f5f5</color>
+<color name="ucrop_color_active_controls_color">#FFFFFF</color>
+<color name="ucrop_color_widget_rotate_mid_line">#000000</color>
+<color name="ucrop_color_widget_background">#000000</color> -->
+
+    <color name="ucrop_color_toolbar_widget">#000000</color>
+    <color name="ucrop_color_toolbar">#FFBF00</color>
+    <color name="ucrop_color_default_crop_grid">#FFBF00</color>
+    <!-- <color name="ucrop_color_widget_active">#FF6400</color> -->
+    <color name="ucrop_color_widget_active">#000000</color>
+
+    <!-- <color name="ucrop_color_widget_active">#000000</color> -->
+    <color name="ucrop_color_widget_background">#FFBF00</color> 
+    <color name="ucrop_color_widget_text">#000000</color>
+    <color name="ucrop_color_progress_wheel_line">#000</color>
+    <color name="ucrop_color_crop_background">#000</color>
+
+<!-- <color name="ucrop_color_widget_rotate_mid_line" tools:override="true">#000000</color>
+<color name="ucrop_color_widget_background" tools:override="true">#000000</color>  -->
+
+
+
+    <!-- <color name="ucrop_color_toolbar_widget">#000000</color> -->
+    <!-- <color name="ucrop_color_statusbar">#ff0000</color> -->
+
+    <!-- <color name="ucrop_color_widget_background">#ffffc107</color>  -->
+    <!-- <color name="ucrop_color_widget_active">#000</color> -->
+    <!-- <color name="ucrop_color_progress_wheel_line">#000</color> -->
+    <!-- <color name="ucrop_color_toolbar">#FFBF00</color> -->
+    <!-- <color name="ucrop_color_default_crop_grid">#FFBF00</color> -->
+    <!-- <color name="ucrop_color_widget">#000</color> -->
+    <!-- <color name="ucrop_color_crop_background">#fff</color> -->
+    <!-- <color name="ucrop_color_default_crop_frame">#ffffff</color> -->
+    <!-- <color name="ucrop_color_widget_text">#ffffff</color> -->
+</resources>
